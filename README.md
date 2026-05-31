@@ -14,6 +14,7 @@ I will be solving leetcode questions.
 ## Array
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
