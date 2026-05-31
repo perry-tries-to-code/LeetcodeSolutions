@@ -14,11 +14,13 @@ I will be solving leetcode questions.
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
 ## Binary Indexed Tree
 |  |
@@ -35,5 +37,18 @@ I will be solving leetcode questions.
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
