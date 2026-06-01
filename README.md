@@ -54,6 +54,7 @@ I will be solving leetcode questions.
 | ------- |
 | [0258-add-digits](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0507-perfect-number) |
 ## Bit Manipulation
 |  |
 | ------- |
