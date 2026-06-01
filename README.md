@@ -16,6 +16,7 @@ I will be solving leetcode questions.
 | ------- |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
 ## Binary Search
 |  |
@@ -34,11 +35,13 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
