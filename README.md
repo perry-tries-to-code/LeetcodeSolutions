@@ -57,6 +57,7 @@ I will be solving leetcode questions.
 | [0258-add-digits](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0507-perfect-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
 |  |
