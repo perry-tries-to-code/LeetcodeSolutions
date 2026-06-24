@@ -74,6 +74,7 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
@@ -94,5 +95,6 @@ I will be solving leetcode questions.
 ## String
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
