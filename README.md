@@ -52,6 +52,7 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [1189-maximum-number-of-balloons](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,11 @@ I will be solving leetcode questions.
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
