@@ -87,11 +87,13 @@ I will be solving leetcode questions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
 | ------- |
