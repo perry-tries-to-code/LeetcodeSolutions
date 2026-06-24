@@ -20,6 +20,7 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [1732-find-the-highest-altitude](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
@@ -85,4 +86,8 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
