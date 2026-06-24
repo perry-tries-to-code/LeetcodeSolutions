@@ -74,6 +74,7 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [3614-process-string-with-special-operations-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -90,4 +91,8 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
