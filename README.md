@@ -57,6 +57,7 @@ I will be solving leetcode questions.
 | [0258-add-digits](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0507-perfect-number) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,4 +80,8 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
