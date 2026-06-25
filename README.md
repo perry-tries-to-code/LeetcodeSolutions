@@ -26,6 +26,7 @@ I will be solving leetcode questions.
 | [2126-destroying-asteroids](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@ I will be solving leetcode questions.
 | ------- |
 | [0268-missing-number](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +104,7 @@ I will be solving leetcode questions.
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -111,8 +115,17 @@ I will be solving leetcode questions.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
