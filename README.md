@@ -27,6 +27,7 @@ I will be solving leetcode questions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3161-block-placement-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ I will be solving leetcode questions.
 | [1732-find-the-highest-altitude](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/perry-tries-to-code/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
